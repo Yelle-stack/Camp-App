@@ -1,5 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+![image alt](https://github.com/Yelle-stack/Camp-App/blob/f59f74c603bbb673d5fa6de0fc650ad4f4594dbf/homeCampApp.png)
 ## Getting Started
 
 First, run the development server:
