@@ -7,7 +7,6 @@ export const NAV_LINKS = [
   { href: '/#get-app', key: 'get_app', label: 'Get the App' },
 ];
 
-
 // CAMP SECTION
 export const PEOPLE_URL = [
   '/person-1.png',
@@ -63,15 +62,18 @@ export const FOOTER_LINKS = [
   },
   {
     title: 'Our Community',
-    links: ['Climbing xixixi', 'Hiking hilink', 'Hilink kinthill'],
+    // TODO: remplace par tes vrais noms de communautés
+    links: ['Climbing Club', 'Hiking Group', 'Camp Lovers'],
   },
 ];
 
 export const FOOTER_CONTACT_INFO = {
   title: 'Contact Us',
   links: [
-    { label: 'Admin Officer', value: '123-456-7890' },
-    { label: 'Email Officer', value: 'hilink@akinthil.com' },
+    // TODO: remplace par tes vraies coordonnées
+    // "value" = ce qui s'affiche, "href" = ce qui se passe au clic
+    { label: 'Admin Officer', value: '+33 1 23 45 67 89', href: 'tel:+33123456789' },
+    { label: 'Email Officer', value: 'contact@ton-site.com', href: 'mailto:contact@ton-site.com' },
   ],
 };
 
