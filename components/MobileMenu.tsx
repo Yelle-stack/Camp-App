@@ -32,6 +32,15 @@ const MobileMenu = () => {
               </Link>
             </li>
           ))}
+          <li>
+            <Link
+              href="/login"
+              onClick={() => setOpen(false)}
+              className="regular-16 font-bold text-green-50"
+            >
+              Login
+            </Link>
+          </li>
         </ul>
       )}
     </div>
